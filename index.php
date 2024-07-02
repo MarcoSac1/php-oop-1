@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/Models/db.php';
+require_once __DIR__ . '/Models/Movie.php';
 
 // creazione di una nuova instanza di classe movie
 
